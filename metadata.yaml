@@ -1,10 +1,16 @@
 _repo: Petit-histoire-des-grandes-rois-de-Angleterre_50485
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50485-h/images/cover.jpg
 creator:
   author:
     agent_name: Chouinard, Ephrem
     gutenberg_agent_id: '45934'
     url: http://www.gutenberg.org/2009/agents/45934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50485#Petit-histoire-des-grandes-rois-de-Angleterre
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Humour
